@@ -6,7 +6,6 @@ Around 1975, Will Crowther, a programmer and an amateur caver, wrote the first t
 
 ![colossal](docs/colossal.png)
 
-
 ## Instrucciones
 
 - El jugador tiene que estar dispuesto a jugar (preguntárselo).
@@ -15,3 +14,11 @@ Around 1975, Will Crowther, a programmer and an amateur caver, wrote the first t
 - El guión le tiene que permitir llegar hasta la habitación y mirar en la mesa (que es donde está la llave)
 - Deberá poder cogerla e ir a la caja para abrir el cofre.
 - Fin del juego
+
+
+## ¿Cómo ejecutarlo?
+
+```shell script
+npm install
+npm run dev
+```
